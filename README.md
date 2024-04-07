@@ -47,7 +47,7 @@ _Below is an example of how you can instruct your audience on installing and set
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/Ujjalzaman/Easy-Consulting-react
+   git clone https://github.com/filipmariania/React-Easy-Consulting.git
    ```
 2. Install NPM packages
    ```sh
@@ -107,8 +107,3 @@ What you get here:
 * Deffrent for Dasboard(Admin and User)
 * in dashboard Admin has all kinds of access(CRUD operations, add admin, manage orders and many more)
 
-## Contact
-
-ujjal zaman - [Linkdeind](www.linkedin.com/in/ujjal-zaman)
-
-Project Link: [https://github.com/Ujjalzaman/Easy-Consulting-react](https://github.com/Ujjalzaman/Easy-Consulting-react)
